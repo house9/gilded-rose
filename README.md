@@ -3,7 +3,7 @@ The Gilded Rose
 
 ### A Refactoring Code Kata
 
-[![Code Climate](https://codeclimate.com/github/roguerb/GildedRose.png)](https://codeclimate.com/github/roguerb/GildedRose)
+[![Code Climate](https://codeclimate.com/github/house9/gilded-rose.png)](https://codeclimate.com/github/house9/gilded-rose)
 
 _Fork the original challenge at http://github.com/professor/GildedRose_
 
